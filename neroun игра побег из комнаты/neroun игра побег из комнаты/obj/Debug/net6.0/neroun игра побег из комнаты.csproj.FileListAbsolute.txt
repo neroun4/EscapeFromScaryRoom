@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\neroun игра побег из комнаты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\neroun игра побег из комнаты.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\neroun игра побег из комнаты.AssemblyInfo.cs
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\neroun игра побег из комнаты.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\bin\Debug\net6.0\neroun игра побег из комнаты.exe
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\bin\Debug\net6.0\neroun игра побег из комнаты.deps.json
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\bin\Debug\net6.0\neroun игра побег из комнаты.runtimeconfig.json
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\bin\Debug\net6.0\neroun игра побег из комнаты.dll
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\bin\Debug\net6.0\neroun игра побег из комнаты.pdb
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\neroun игра побег из комнаты.dll
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\refint\neroun игра побег из комнаты.dll
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\neroun игра побег из комнаты.pdb
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\neroun игра побег из комнаты.genruntimeconfig.cache
+C:\Users\user\Desktop\PROGECT1\PROGECT1\PROGECT1\PROGECT1\neroun игра побег из комнаты\neroun игра побег из комнаты\obj\Debug\net6.0\ref\neroun игра побег из комнаты.dll
